@@ -1,0 +1,38 @@
+:root {
+  --bg: #f4f6fa;
+  --card: #fff;
+  --text: #1d2433;
+  --muted: #667085;
+  --border: #e2e6ee;
+  --accent: #0a6ed1;
+  --accent-soft: #e8f1fb;
+  font-family: system-ui, "Segoe UI", sans-serif;
+  color: var(--text);
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); }
+.app { max-width: 1100px; margin: 0 auto; padding: 32px 20px 64px; }
+h1 { text-align: center; margin: 0 0 4px; font-size: 1.8rem; }
+.subtitle { text-align: center; color: var(--muted); margin: 0 0 28px; }
+.card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 20px; margin-bottom: 24px; }
+.card h2 { margin: 0 0 14px; font-size: 1.1rem; }
+.card h3 { margin: 0 0 8px; font-size: .95rem; color: var(--muted); font-weight: 600; }
+.toolbar { display: flex; gap: 12px; align-items: center; margin-bottom: 14px; }
+.toolbar input { flex: 1; padding: 10px 12px; border: 1px solid var(--border); border-radius: 8px; font-size: 1rem; }
+.toolbar input:focus { outline: 2px solid var(--accent); border-color: transparent; }
+.count { color: var(--muted); font-size: .9rem; white-space: nowrap; }
+table { width: 100%; border-collapse: collapse; }
+th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--border); }
+th { color: var(--muted); font-size: .8rem; text-transform: uppercase; letter-spacing: .04em; }
+tbody tr { cursor: pointer; }
+tbody tr:hover, tbody tr.selected { background: var(--accent-soft); }
+.badge { background: var(--accent-soft); color: var(--accent); padding: 2px 8px; border-radius: 999px; font-size: .8rem; }
+.detail { margin-top: 16px; padding: 14px 16px; background: var(--bg); border-radius: 8px; line-height: 1.6; }
+.status { text-align: center; color: var(--muted); padding: 24px; }
+.error { color: #b42318; }
+.charts { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+.chart-box { height: 280px; }
+@media (max-width: 800px) { .charts { grid-template-columns: 1fr; } }
+.badge.blocked { background: #fde8e8; color: #b42318; margin-left: 6px; }
+select { padding: 6px 8px; border: 1px solid var(--border); border-radius: 8px; font-size: .95rem; }
+.detail table { margin-top: 8px; }

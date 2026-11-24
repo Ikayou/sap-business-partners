@@ -1,0 +1,666 @@
+- generic [active] [ref=e1]:
+  - main [ref=e3]:
+    - heading "SAP Business Partners" [level=1] [ref=e4]
+    - paragraph [ref=e5]: React · FastAPI · SAP S/4HANA Cloud (OData)
+    - generic [ref=e6]:
+      - heading "Geschäftspartner" [level=2] [ref=e7]
+      - generic [ref=e8]:
+        - searchbox "Nach Name oder ID suchen..." [ref=e9]
+        - generic [ref=e10]: 100 Treffer
+      - table [ref=e22]:
+        - rowgroup [ref=e23]:
+          - row [ref=e24]:
+            - columnheader "ID" [ref=e25]
+            - columnheader "Name" [ref=e26]
+            - columnheader "Kategorie" [ref=e27]
+        - rowgroup [ref=e28]:
+          - row [ref=e29] [cursor=pointer]:
+            - cell "11" [ref=e30]
+            - cell "Cust15 Cust15" [ref=e31]
+            - cell "Organisation" [ref=e32]
+          - row [ref=e33] [cursor=pointer]:
+            - cell "202" [ref=e34]
+            - cell "Nue tech inc" [ref=e35]
+            - cell "Organisation" [ref=e36]
+          - row [ref=e37] [cursor=pointer]:
+            - cell "203" [ref=e38]
+            - cell "Expo technologies Plc" [ref=e39]
+            - cell "Organisation" [ref=e40]
+          - row [ref=e41] [cursor=pointer]:
+            - cell "1018" [ref=e42]
+            - cell "Bechtle AG Kriek street" [ref=e43]
+            - cell "Organisation" [ref=e44]
+          - row [ref=e45] [cursor=pointer]:
+            - cell "1710" [ref=e46]
+            - cell "Inlandskunde DE 80" [ref=e47]
+            - cell "Organisation" [ref=e48]
+          - row [ref=e49] [cursor=pointer]:
+            - cell "123456" [ref=e50]
+            - cell "PEPPOL-XYZ" [ref=e51]
+            - cell "Organisation" [ref=e52]
+          - row [ref=e53] [cursor=pointer]:
+            - cell "1000000" [ref=e54]
+            - cell "BANK5115" [ref=e55]
+            - cell "Organisation" [ref=e56]
+          - row [ref=e57] [cursor=pointer]:
+            - cell "1000001" [ref=e58]
+            - cell "BANK ICS" [ref=e59]
+            - cell "Organisation" [ref=e60]
+          - row [ref=e61] [cursor=pointer]:
+            - cell "1000002" [ref=e62]
+            - cell "BNK1189" [ref=e63]
+            - cell "Organisation" [ref=e64]
+          - row [ref=e65] [cursor=pointer]:
+            - cell "1000010" [ref=e66]
+            - cell "Bank5" [ref=e67]
+            - cell "Organisation" [ref=e68]
+          - row [ref=e69] [cursor=pointer]:
+            - cell "1000020" [ref=e70]
+            - cell "Fast Bikes Inc." [ref=e71]
+            - cell "Organisation" [ref=e72]
+          - row [ref=e73] [cursor=pointer]:
+            - cell "1000021" [ref=e74]
+            - cell "Bikes Pro Inc." [ref=e75]
+            - cell "Organisation" [ref=e76]
+          - row [ref=e77] [cursor=pointer]:
+            - cell "1000030" [ref=e78]
+            - cell "vender for WHT 1" [ref=e79]
+            - cell "Organisation" [ref=e80]
+          - row [ref=e81] [cursor=pointer]:
+            - cell "1000031" [ref=e82]
+            - cell "Nelsons Trmt & Pest Cntrl Co" [ref=e83]
+            - cell "Organisation" [ref=e84]
+          - row [ref=e85] [cursor=pointer]:
+            - cell "1000032" [ref=e86]
+            - cell "Avante Limited" [ref=e87]
+            - cell "Organisation" [ref=e88]
+          - row [ref=e89] [cursor=pointer]:
+            - cell "1000033" [ref=e90]
+            - cell "Capital Fasteners Inc" [ref=e91]
+            - cell "Organisation" [ref=e92]
+          - row [ref=e93] [cursor=pointer]:
+            - cell "1000034" [ref=e94]
+            - cell "Furey & Associates" [ref=e95]
+            - cell "Organisation" [ref=e96]
+          - row [ref=e97] [cursor=pointer]:
+            - cell "1000035" [ref=e98]
+            - cell "T C E Systems Inc" [ref=e99]
+            - cell "Organisation" [ref=e100]
+          - row [ref=e101] [cursor=pointer]:
+            - cell "1000036" [ref=e102]
+            - cell "Martin Morrissey" [ref=e103]
+            - cell "Organisation" [ref=e104]
+          - row [ref=e105] [cursor=pointer]:
+            - cell "1000037" [ref=e106]
+            - cell "Furey & Associates" [ref=e107]
+            - cell "Organisation" [ref=e108]
+          - row [ref=e109] [cursor=pointer]:
+            - cell "1000038" [ref=e110]
+            - cell "Harris Oldsmobile Inc" [ref=e111]
+            - cell "Organisation" [ref=e112]
+          - row [ref=e113] [cursor=pointer]:
+            - cell "1000039" [ref=e114]
+            - cell "Horizon Air" [ref=e115]
+            - cell "Organisation" [ref=e116]
+          - row [ref=e117] [cursor=pointer]:
+            - cell "1000040" [ref=e118]
+            - cell "J C S Machinery" [ref=e119]
+            - cell "Organisation" [ref=e120]
+          - row [ref=e121] [cursor=pointer]:
+            - cell "1000041" [ref=e122]
+            - cell "Bridgeway Plan For Health" [ref=e123]
+            - cell "Organisation" [ref=e124]
+          - row [ref=e125] [cursor=pointer]:
+            - cell "1000042" [ref=e126]
+            - cell "B & S Tool And Cutter Svc Inc" [ref=e127]
+            - cell "Organisation" [ref=e128]
+          - row [ref=e129] [cursor=pointer]:
+            - cell "1000043" [ref=e130]
+            - cell "Alden, Michael H Es" [ref=e131]
+            - cell "Organisation" [ref=e132]
+          - row [ref=e133] [cursor=pointer]:
+            - cell "1000044" [ref=e134]
+            - cell "Cooper Myers Y Co" [ref=e135]
+            - cell "Organisation" [ref=e136]
+          - row [ref=e137] [cursor=pointer]:
+            - cell "1000045" [ref=e138]
+            - cell "Charlotte Chamber" [ref=e139]
+            - cell "Organisation" [ref=e140]
+          - row [ref=e141] [cursor=pointer]:
+            - cell "1000046" [ref=e142]
+            - cell "Sound Vision Corp" [ref=e143]
+            - cell "Organisation" [ref=e144]
+          - row [ref=e145] [cursor=pointer]:
+            - cell "1000047" [ref=e146]
+            - cell "In Communications Inc" [ref=e147]
+            - cell "Organisation" [ref=e148]
+          - row [ref=e149] [cursor=pointer]:
+            - cell "1000048" [ref=e150]
+            - cell "Thompson, Michael C Esq" [ref=e151]
+            - cell "Organisation" [ref=e152]
+          - row [ref=e153] [cursor=pointer]:
+            - cell "1000049" [ref=e154]
+            - cell "In Communications Inc" [ref=e155]
+            - cell "Organisation" [ref=e156]
+          - row [ref=e157] [cursor=pointer]:
+            - cell "1000050" [ref=e158]
+            - cell "Sound Vision Corp/customer" [ref=e159]
+            - cell "Organisation" [ref=e160]
+          - row [ref=e161] [cursor=pointer]:
+            - cell "1000060" [ref=e162]
+            - cell "Bill jenson" [ref=e163]
+            - cell "Person" [ref=e164]
+          - row [ref=e165] [cursor=pointer]:
+            - cell "1000061" [ref=e166]
+            - cell "kATIE PHILL" [ref=e167]
+            - cell "Person" [ref=e168]
+          - row [ref=e169] [cursor=pointer]:
+            - cell "1000070" [ref=e170]
+            - cell "Inlandskunde 99" [ref=e171]
+            - cell "Person" [ref=e172]
+          - row [ref=e173] [cursor=pointer]:
+            - cell "1000071" [ref=e174]
+            - cell "Inlandskunde 99" [ref=e175]
+            - cell "Person" [ref=e176]
+          - row [ref=e177] [cursor=pointer]:
+            - cell "1000072" [ref=e178]
+            - cell "Indlandskunde DE 99" [ref=e179]
+            - cell "Person" [ref=e180]
+          - row [ref=e181] [cursor=pointer]:
+            - cell "1000073" [ref=e182]
+            - cell "Inlandskunde DE 99" [ref=e183]
+            - cell "Person" [ref=e184]
+          - row [ref=e185] [cursor=pointer]:
+            - cell "1000080" [ref=e186]
+            - cell "EBIKE" [ref=e187]
+            - cell "Organisation" [ref=e188]
+          - row [ref=e189] [cursor=pointer]:
+            - cell "1000081" [ref=e190]
+            - cell "EBIKE" [ref=e191]
+            - cell "Organisation" [ref=e192]
+          - row [ref=e193] [cursor=pointer]:
+            - cell "1000082" [ref=e194]
+            - cell "EBIKE" [ref=e195]
+            - cell "Organisation" [ref=e196]
+          - row [ref=e197] [cursor=pointer]:
+            - cell "1000083" [ref=e198]
+            - cell "EBIKE" [ref=e199]
+            - cell "Organisation" [ref=e200]
+          - row [ref=e201] [cursor=pointer]:
+            - cell "1000084" [ref=e202]
+            - cell "Domestic_ US_Supplier test1" [ref=e203]
+            - cell "Organisation" [ref=e204]
+          - row [ref=e205] [cursor=pointer]:
+            - cell "1000085" [ref=e206]
+            - cell "Domestic_ US_Supplier test1" [ref=e207]
+            - cell "Organisation" [ref=e208]
+          - row [ref=e209] [cursor=pointer]:
+            - cell "1000086" [ref=e210]
+            - cell "Domestic_ US_Supplier test1" [ref=e211]
+            - cell "Organisation" [ref=e212]
+          - row [ref=e213] [cursor=pointer]:
+            - cell "1000087" [ref=e214]
+            - cell "DOMESTIC_ US_SUPPLIER TEST" [ref=e215]
+            - cell "Organisation" [ref=e216]
+          - row [ref=e217] [cursor=pointer]:
+            - cell "1000088" [ref=e218]
+            - cell "DOMESTIC_ US_SUPPLIER TEST" [ref=e219]
+            - cell "Organisation" [ref=e220]
+          - row [ref=e221] [cursor=pointer]:
+            - cell "1000089" [ref=e222]
+            - cell "Domestic_ US_Supplier test1" [ref=e223]
+            - cell "Organisation" [ref=e224]
+          - row [ref=e225] [cursor=pointer]:
+            - cell "1000090" [ref=e226]
+            - cell "DOMESTIC_ US_SUPPLIER" [ref=e227]
+            - cell "Organisation" [ref=e228]
+          - row [ref=e229] [cursor=pointer]:
+            - cell "1000091" [ref=e230]
+            - cell "SUPPLIER_ US_SUPPLIER TEST1453U3Y2UR29R2" [ref=e231]
+            - cell "Organisation" [ref=e232]
+          - row [ref=e233] [cursor=pointer]:
+            - cell "1000092" [ref=e234]
+            - cell "SUPPLIER-TEST01900808" [ref=e235]
+            - cell "Organisation" [ref=e236]
+          - row [ref=e237] [cursor=pointer]:
+            - cell "1000100" [ref=e238]
+            - cell "EBIKE" [ref=e239]
+            - cell "Organisation" [ref=e240]
+          - row [ref=e241] [cursor=pointer]:
+            - cell "1000101" [ref=e242]
+            - cell "Ebike56" [ref=e243]
+            - cell "Organisation" [ref=e244]
+          - row [ref=e245] [cursor=pointer]:
+            - cell "1000110" [ref=e246]
+            - cell "Domestic_ US_Supplier test1" [ref=e247]
+            - cell "Organisation" [ref=e248]
+          - row [ref=e249] [cursor=pointer]:
+            - cell "1000120" [ref=e250]
+            - cell "Loyd" [ref=e251]
+            - cell "Organisation" [ref=e252]
+          - row [ref=e253] [cursor=pointer]:
+            - cell "1000121" [ref=e254]
+            - cell "Sydney Opera" [ref=e255]
+            - cell "Organisation" [ref=e256]
+          - row [ref=e257] [cursor=pointer]:
+            - cell "1000122" [ref=e258]
+            - cell "InlandskundeUS 99" [ref=e259]
+            - cell "Person" [ref=e260]
+          - row [ref=e261] [cursor=pointer]:
+            - cell "1000123" [ref=e262]
+            - cell "InlandskundeUS 99" [ref=e263]
+            - cell "Person" [ref=e264]
+          - row [ref=e265] [cursor=pointer]:
+            - cell "1000127" [ref=e266]
+            - cell "Venkat Sreepakalapati" [ref=e267]
+            - cell "Person" [ref=e268]
+          - row [ref=e269] [cursor=pointer]:
+            - cell "1000130" [ref=e270]
+            - cell "Domestic_ US_Supplier test1" [ref=e271]
+            - cell "Organisation" [ref=e272]
+          - row [ref=e273] [cursor=pointer]:
+            - cell "1000140" [ref=e274]
+            - cell "Cust10" [ref=e275]
+            - cell "Organisation" [ref=e276]
+          - row [ref=e277] [cursor=pointer]:
+            - cell "1000150" [ref=e278]
+            - cell "Smart bike Inc" [ref=e279]
+            - cell "Organisation" [ref=e280]
+          - row [ref=e281] [cursor=pointer]:
+            - cell "1000160" [ref=e282]
+            - cell "ANZ Bank" [ref=e283]
+            - cell "Organisation" [ref=e284]
+          - row [ref=e285] [cursor=pointer]:
+            - cell "1000161" [ref=e286]
+            - cell "ABN AMRO BANK" [ref=e287]
+            - cell "Organisation" [ref=e288]
+          - row [ref=e289] [cursor=pointer]:
+            - cell "1000162" [ref=e290]
+            - cell "Bank of America" [ref=e291]
+            - cell "Organisation" [ref=e292]
+          - row [ref=e293] [cursor=pointer]:
+            - cell "1000163" [ref=e294]
+            - cell "CHASE MANHATTAN BANK" [ref=e295]
+            - cell "Organisation" [ref=e296]
+          - row [ref=e297] [cursor=pointer]:
+            - cell "1000164" [ref=e298]
+            - cell "Citibank" [ref=e299]
+            - cell "Organisation" [ref=e300]
+          - row [ref=e301] [cursor=pointer]:
+            - cell "1000165" [ref=e302]
+            - cell "Commerce Bank" [ref=e303]
+            - cell "Organisation" [ref=e304]
+          - row [ref=e305] [cursor=pointer]:
+            - cell "1000166" [ref=e306]
+            - cell "Commonwealth Bank" [ref=e307]
+            - cell "Organisation" [ref=e308]
+          - row [ref=e309] [cursor=pointer]:
+            - cell "1000167" [ref=e310]
+            - cell "Deutsche Bank" [ref=e311]
+            - cell "Organisation" [ref=e312]
+          - row [ref=e313] [cursor=pointer]:
+            - cell "1000168" [ref=e314]
+            - cell "HSBC Bank" [ref=e315]
+            - cell "Organisation" [ref=e316]
+          - row [ref=e317] [cursor=pointer]:
+            - cell "1000169" [ref=e318]
+            - cell "Wells Fargo Bank" [ref=e319]
+            - cell "Organisation" [ref=e320]
+          - row [ref=e321] [cursor=pointer]:
+            - cell "1000170" [ref=e322]
+            - cell "Global Relief Foundation Inc" [ref=e323]
+            - cell "Organisation" [ref=e324]
+          - row [ref=e325] [cursor=pointer]:
+            - cell "1000171" [ref=e326]
+            - cell "PSG Holdings LLC" [ref=e327]
+            - cell "Organisation" [ref=e328]
+          - row [ref=e329] [cursor=pointer]:
+            - cell "1000180" [ref=e330]
+            - cell "CUSTOM_ NEW_SUPPLIER TEST1Q1" [ref=e331]
+            - cell "Organisation" [ref=e332]
+          - row [ref=e333] [cursor=pointer]:
+            - cell "1000181" [ref=e334]
+            - cell "Joe Wills" [ref=e335]
+            - cell "Person" [ref=e336]
+          - row [ref=e337] [cursor=pointer]:
+            - cell "1000182" [ref=e338]
+            - cell "EBIKE" [ref=e339]
+            - cell "Organisation" [ref=e340]
+          - row [ref=e341] [cursor=pointer]:
+            - cell "1000183" [ref=e342]
+            - cell "Global Relief Foundation Inc" [ref=e343]
+            - cell "Organisation" [ref=e344]
+          - row [ref=e345] [cursor=pointer]:
+            - cell "1000184" [ref=e346]
+            - cell "PSG Holdings LLC" [ref=e347]
+            - cell "Organisation" [ref=e348]
+          - row [ref=e349] [cursor=pointer]:
+            - cell "1000185" [ref=e350]
+            - cell "Domestic US Customer 1" [ref=e351]
+            - cell "Organisation" [ref=e352]
+          - row [ref=e353] [cursor=pointer]:
+            - cell "1000190" [ref=e354]
+            - cell "Master PSG International Inc" [ref=e355]
+            - cell "Organisation" [ref=e356]
+          - row [ref=e357] [cursor=pointer]:
+            - cell "1000200" [ref=e358]
+            - cell "Green Construction Group" [ref=e359]
+            - cell "Organisation" [ref=e360]
+          - row [ref=e361] [cursor=pointer]:
+            - cell "1000210" [ref=e362]
+            - cell "Peter Gao" [ref=e363]
+            - cell "Person" [ref=e364]
+          - row [ref=e365] [cursor=pointer]:
+            - cell "1000211" [ref=e366]
+            - cell "Smith Gutenkunst" [ref=e367]
+            - cell "Person" [ref=e368]
+          - row [ref=e369] [cursor=pointer]:
+            - cell "1000220" [ref=e370]
+            - cell "CUST1" [ref=e371]
+            - cell "Organisation" [ref=e372]
+          - row [ref=e373] [cursor=pointer]:
+            - cell "1000221" [ref=e374]
+            - cell "CUST2" [ref=e375]
+            - cell "Organisation" [ref=e376]
+          - row [ref=e377] [cursor=pointer]:
+            - cell "1000222" [ref=e378]
+            - cell "CUST3" [ref=e379]
+            - cell "Organisation" [ref=e380]
+          - row [ref=e381] [cursor=pointer]:
+            - cell "1000230" [ref=e382]
+            - cell "Allen Thomas" [ref=e383]
+            - cell "Person" [ref=e384]
+          - row [ref=e385] [cursor=pointer]:
+            - cell "1000231" [ref=e386]
+            - cell "Alica Thomas" [ref=e387]
+            - cell "Person" [ref=e388]
+          - row [ref=e389] [cursor=pointer]:
+            - cell "1000232" [ref=e390]
+            - cell "Alica Thomas" [ref=e391]
+            - cell "Person" [ref=e392]
+          - row [ref=e393] [cursor=pointer]:
+            - cell "1000240" [ref=e394]
+            - cell "Lora Gutkowski" [ref=e395]
+            - cell "Person" [ref=e396]
+          - row [ref=e397] [cursor=pointer]:
+            - cell "1000241" [ref=e398]
+            - cell "Vito Renner" [ref=e399]
+            - cell "Person" [ref=e400]
+          - row [ref=e401] [cursor=pointer]:
+            - cell "1000242" [ref=e402]
+            - cell "Skylar Schamberger" [ref=e403]
+            - cell "Person" [ref=e404]
+          - row [ref=e405] [cursor=pointer]:
+            - cell "1000243" [ref=e406]
+            - cell "Lora Davis" [ref=e407]
+            - cell "Person" [ref=e408]
+          - row [ref=e409] [cursor=pointer]:
+            - cell "1000244" [ref=e410]
+            - cell "Ottis Langworth" [ref=e411]
+            - cell "Person" [ref=e412]
+          - row [ref=e413] [cursor=pointer]:
+            - cell "1000245" [ref=e414]
+            - cell "Ashleigh Maggio" [ref=e415]
+            - cell "Person" [ref=e416]
+          - row [ref=e417] [cursor=pointer]:
+            - cell "1000246" [ref=e418]
+            - cell "Nat Bechtelar" [ref=e419]
+            - cell "Person" [ref=e420]
+          - row [ref=e421] [cursor=pointer]:
+            - cell "1000247" [ref=e422]
+            - cell "Kiana Parker" [ref=e423]
+            - cell "Person" [ref=e424]
+          - row [ref=e425] [cursor=pointer]:
+            - cell "1000248" [ref=e426]
+            - cell "Ramiro Bednar" [ref=e427]
+            - cell "Person" [ref=e428]
+    - generic [ref=e12]:
+      - heading "Auftragsübersicht (neueste 30)" [level=2] [ref=e13]
+      - generic [ref=e14]:
+        - searchbox "Nach Kundenname suchen (z. B. Specialty)..." [ref=e15]: specialty
+        - generic [ref=e16]:
+          - text: "Status:"
+          - combobox "Status:" [ref=e17]:
+            - option "Alle" [selected]
+            - option "Offen"
+            - option "In Bearbeitung"
+            - option "Abgeschlossen"
+      - table [ref=e429]:
+        - rowgroup [ref=e430]:
+          - row [ref=e431]:
+            - columnheader "Auftrag" [ref=e432]
+            - columnheader "Datum" [ref=e433]
+            - columnheader "Kunde" [ref=e434]
+            - columnheader "Nettowert" [ref=e435]
+            - columnheader "Status" [ref=e436]
+        - rowgroup [ref=e437]:
+          - row [ref=e438] [cursor=pointer]:
+            - cell "549204" [ref=e439]
+            - cell "2026-11-24" [ref=e440]
+            - cell "US Specialty Cycles 6" [ref=e441]
+            - cell "36.305,00 $" [ref=e442]
+            - cell "In Bearbeitung" [ref=e443]
+          - row [ref=e444] [cursor=pointer]:
+            - cell "549206" [ref=e445]
+            - cell "2026-11-24" [ref=e446]
+            - cell "LA Specialty Cycles 1" [ref=e447]
+            - cell "7.735,00 $" [ref=e448]
+            - cell "In Bearbeitung" [ref=e449]
+          - row [ref=e450] [cursor=pointer]:
+            - cell "549211" [ref=e451]
+            - cell "2026-11-24" [ref=e452]
+            - cell "US Specialty Cycles 7" [ref=e453]
+            - cell "56.100,00 $" [ref=e454]
+            - cell "In Bearbeitung" [ref=e455]
+          - row [ref=e456] [cursor=pointer]:
+            - cell "549213" [ref=e457]
+            - cell "2026-11-24" [ref=e458]
+            - cell "CA Specialty Cycles 5" [ref=e459]
+            - cell "76.000,00 $" [ref=e460]
+            - cell "In Bearbeitung" [ref=e461]
+          - row [ref=e462] [cursor=pointer]:
+            - cell "549214" [ref=e463]
+            - cell "2026-11-24" [ref=e464]
+            - cell "US Specialty Cycles 5" [ref=e465]
+            - cell "589.000,00 $" [ref=e466]
+            - cell "In Bearbeitung" [ref=e467]
+          - row [ref=e468] [cursor=pointer]:
+            - cell "549216" [ref=e469]
+            - cell "2026-11-24" [ref=e470]
+            - cell "CA Specialty Cycles 5" [ref=e471]
+            - cell "55.200,00 $" [ref=e472]
+            - cell "In Bearbeitung" [ref=e473]
+          - row [ref=e474] [cursor=pointer]:
+            - cell "549218" [ref=e475]
+            - cell "2026-11-24" [ref=e476]
+            - cell "US Specialty Cycles 7" [ref=e477]
+            - cell "6.370,00 $" [ref=e478]
+            - cell "In Bearbeitung" [ref=e479]
+          - row [ref=e480] [cursor=pointer]:
+            - cell "549222" [ref=e481]
+            - cell "2026-11-24" [ref=e482]
+            - cell "CA Specialty Cycles 4" [ref=e483]
+            - cell "5.220,00 $" [ref=e484]
+            - cell "In Bearbeitung" [ref=e485]
+          - row [ref=e486] [cursor=pointer]:
+            - cell "549225" [ref=e487]
+            - cell "2026-11-24" [ref=e488]
+            - cell "LA Specialty Cycles 4" [ref=e489]
+            - cell "840,00 $" [ref=e490]
+            - cell "In Bearbeitung" [ref=e491]
+          - row [ref=e492] [cursor=pointer]:
+            - cell "549226" [ref=e493]
+            - cell "2026-11-24" [ref=e494]
+            - cell "LA Specialty Cycles 1" [ref=e495]
+            - cell "840,00 $" [ref=e496]
+            - cell "In Bearbeitung" [ref=e497]
+          - row [ref=e498] [cursor=pointer]:
+            - cell "549229" [ref=e499]
+            - cell "2026-11-24" [ref=e500]
+            - cell "LA Specialty Cycles 4" [ref=e501]
+            - cell "975,00 $" [ref=e502]
+            - cell "In Bearbeitung" [ref=e503]
+          - row [ref=e504] [cursor=pointer]:
+            - cell "549131" [ref=e505]
+            - cell "2026-11-23" [ref=e506]
+            - cell "US Specialty Cycles 9" [ref=e507]
+            - cell "58.941,00 $" [ref=e508]
+            - cell "In Bearbeitung" [ref=e509]
+          - row [ref=e510] [cursor=pointer]:
+            - cell "549134" [ref=e511]
+            - cell "2026-11-23" [ref=e512]
+            - cell "LA Specialty Cycles 1" [ref=e513]
+            - cell "2.275,00 $" [ref=e514]
+            - cell "In Bearbeitung" [ref=e515]
+          - row [ref=e516] [cursor=pointer]:
+            - cell "549136" [ref=e517]
+            - cell "2026-11-23" [ref=e518]
+            - cell "US Specialty Cycles 2" [ref=e519]
+            - cell "108.243,00 $" [ref=e520]
+            - cell "In Bearbeitung" [ref=e521]
+          - row [ref=e522] [cursor=pointer]:
+            - cell "549137" [ref=e523]
+            - cell "2026-11-23" [ref=e524]
+            - cell "US Specialty Cycles 2" [ref=e525]
+            - cell "18.689,00 $" [ref=e526]
+            - cell "In Bearbeitung" [ref=e527]
+          - row [ref=e528] [cursor=pointer]:
+            - cell "549139" [ref=e529]
+            - cell "2026-11-23" [ref=e530]
+            - cell "CA Specialty Cycles 1" [ref=e531]
+            - cell "5.100,00 $" [ref=e532]
+            - cell "In Bearbeitung" [ref=e533]
+          - row [ref=e534] [cursor=pointer]:
+            - cell "549141" [ref=e535]
+            - cell "2026-11-23" [ref=e536]
+            - cell "LA Specialty Cycles 1" [ref=e537]
+            - cell "10.200,00 $" [ref=e538]
+            - cell "In Bearbeitung" [ref=e539]
+          - row [ref=e540] [cursor=pointer]:
+            - cell "549142" [ref=e541]
+            - cell "2026-11-23" [ref=e542]
+            - cell "US Specialty Cycles 1" [ref=e543]
+            - cell "370.500,00 $" [ref=e544]
+            - cell "In Bearbeitung" [ref=e545]
+          - row [ref=e546] [cursor=pointer]:
+            - cell "549143" [ref=e547]
+            - cell "2026-11-23" [ref=e548]
+            - cell "CA Specialty Cycles 5" [ref=e549]
+            - cell "9.660,00 $" [ref=e550]
+            - cell "In Bearbeitung" [ref=e551]
+          - row [ref=e552] [cursor=pointer]:
+            - cell "549145" [ref=e553]
+            - cell "2026-11-23" [ref=e554]
+            - cell "CA Specialty Cycles 2" [ref=e555]
+            - cell "22.750,00 $" [ref=e556]
+            - cell "In Bearbeitung" [ref=e557]
+          - row [ref=e558] [cursor=pointer]:
+            - cell "549149" [ref=e559]
+            - cell "2026-11-23" [ref=e560]
+            - cell "CA Specialty Cycles 4" [ref=e561]
+            - cell "6.888,00 $" [ref=e562]
+            - cell "In Bearbeitung" [ref=e563]
+          - row [ref=e564] [cursor=pointer]:
+            - cell "549151" [ref=e565]
+            - cell "2026-11-23" [ref=e566]
+            - cell "LA Specialty Cycles 5" [ref=e567]
+            - cell "5.334,00 $" [ref=e568]
+            - cell "In Bearbeitung" [ref=e569]
+          - row [ref=e570] [cursor=pointer]:
+            - cell "549152" [ref=e571]
+            - cell "2026-11-23" [ref=e572]
+            - cell "US Specialty Cycles 1" [ref=e573]
+            - cell "225,00 $" [ref=e574]
+            - cell "In Bearbeitung" [ref=e575]
+          - row [ref=e576] [cursor=pointer]:
+            - cell "549153" [ref=e577]
+            - cell "2026-11-23" [ref=e578]
+            - cell "CA Specialty Cycles 2" [ref=e579]
+            - cell "19.050,00 $" [ref=e580]
+            - cell "In Bearbeitung" [ref=e581]
+          - row [ref=e582] [cursor=pointer]:
+            - cell "549154" [ref=e583]
+            - cell "2026-11-23" [ref=e584]
+            - cell "LA Specialty Cycles 4" [ref=e585]
+            - cell "900,00 $" [ref=e586]
+            - cell "In Bearbeitung" [ref=e587]
+          - row [ref=e588] [cursor=pointer]:
+            - cell "549155" [ref=e589]
+            - cell "2026-11-23" [ref=e590]
+            - cell "US Specialty Cycles 7" [ref=e591]
+            - cell "42.475,00 $" [ref=e592]
+            - cell "Abgeschlossen" [ref=e593]
+          - row [ref=e594] [cursor=pointer]:
+            - cell "549156" [ref=e595]
+            - cell "2026-11-23" [ref=e596]
+            - cell "CA Specialty Cycles 3" [ref=e597]
+            - cell "78.154,00 $" [ref=e598]
+            - cell "Abgeschlossen" [ref=e599]
+          - row [ref=e600] [cursor=pointer]:
+            - cell "549158" [ref=e601]
+            - cell "2026-11-23" [ref=e602]
+            - cell "LA Specialty Cycles 4" [ref=e603]
+            - cell "35.679,00 $" [ref=e604]
+            - cell "Abgeschlossen" [ref=e605]
+          - row [ref=e606] [cursor=pointer]:
+            - cell "549160" [ref=e607]
+            - cell "2026-11-23" [ref=e608]
+            - cell "CA Specialty Cycles 4" [ref=e609]
+            - cell "69.659,00 $" [ref=e610]
+            - cell "Abgeschlossen" [ref=e611]
+          - row [ref=e612] [cursor=pointer]:
+            - cell "549162" [ref=e613]
+            - cell "2026-11-23" [ref=e614]
+            - cell "CA Specialty Cycles 5" [ref=e615]
+            - cell "53.172,00 $" [ref=e616]
+            - cell "Abgeschlossen" [ref=e617]
+      - generic [ref=e732]:
+        - strong [ref=e733]: Positionen zu Auftrag 549204
+        - table [ref=e734]:
+          - rowgroup [ref=e735]:
+            - row [ref=e736]:
+              - columnheader "Pos." [ref=e737]
+              - columnheader "Material" [ref=e738]
+              - columnheader "Bezeichnung" [ref=e739]
+              - columnheader "Menge" [ref=e740]
+              - columnheader "Nettowert" [ref=e741]
+          - rowgroup [ref=e742]:
+            - row [ref=e743]:
+              - cell "10" [ref=e744]
+              - cell "MZ-FG-C950" [ref=e745]
+              - cell "Cruise Bike C950" [ref=e746]
+              - cell "53 PC" [ref=e747]
+              - cell "36.305,00 $" [ref=e748]
+    - generic [ref=e19]:
+      - heading "Aufträge (USD)" [level=2] [ref=e618]
+      - generic [ref=e619]:
+        - generic [ref=e620]:
+          - heading "Nettowert pro Monat" [level=3] [ref=e621]
+          - application [ref=e625]:
+            - generic [ref=e646]:
+              - generic [ref=e647]:
+                - generic [ref=e648]: 2016-08
+                - generic [ref=e650]: 2016-09
+                - generic [ref=e652]: 2016-10
+              - generic [ref=e654]:
+                - generic [ref=e655]: "0"
+                - generic [ref=e657]: 6.000.000
+                - generic [ref=e659]: 12.000.000
+                - generic [ref=e661]: 18.000.000
+                - generic [ref=e663]: 24.000.000
+        - generic [ref=e665]:
+          - heading "Top-Kunden nach Nettowert" [level=3] [ref=e666]
+          - application [ref=e670]:
+            - generic [ref=e710]:
+              - generic [ref=e711]:
+                - generic [ref=e712]: USCU_S15
+                - generic [ref=e714]: USCU_S06
+                - generic [ref=e716]: USCU_S16
+                - generic [ref=e718]: USCU_S07
+              - generic [ref=e720]:
+                - generic [ref=e721]: "0"
+                - generic [ref=e723]: "500.000"
+                - generic [ref=e725]: 1.000.000
+                - generic [ref=e727]: 1.500.000
+                - generic [ref=e729]: 2.000.000
+  - generic [aria-hidden] [ref=e731]: "500.000"
